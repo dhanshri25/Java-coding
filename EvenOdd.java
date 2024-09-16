@@ -7,10 +7,10 @@ public class EvenOdd{
         int num = scanner.nextInt();
 
         if(num % 2 == 0 ){
-            System.out.println(num + " is even number");
+            System.out.println(num + " is even number.");
         }
         else{
-            System.out.println(num + " is odd number");
+            System.out.println(num + " is odd number.");
         }
     }
 }
